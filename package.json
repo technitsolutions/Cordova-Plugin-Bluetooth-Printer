@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/srehanuddin/Cordova-Plugin-Bluetooth-Printer.git"
+    "url": "git+https://github.com/technitsolutions/Cordova-Plugin-Bluetooth-Printer.git"
   },
   "keywords": [
     "cordova",
